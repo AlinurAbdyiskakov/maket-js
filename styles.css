@@ -11,7 +11,11 @@ header{
     height: 80px;
 }
 header nav ul{
+    list-style: none;
     display: flex;
     flex-direction: row;
 }
-nav
+nav ul li a{
+    margin-right: 30px;
+    justify-content: space-between;
+}

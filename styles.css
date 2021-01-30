@@ -10,6 +10,9 @@ header{
     background-color: red;
     height: 80px;
 }
+ span img{
+    width: 160px;height: 500px;
+}
 header nav ul{
     padding-top: 30px;
     list-style: none;

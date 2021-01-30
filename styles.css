@@ -10,9 +10,7 @@ header{
     background-color: red;
     height: 80px;
 }
- span img{
-    width: 160px;height: 500px;
-}
+
 header nav ul{
     padding-top: 30px;
     list-style: none;
@@ -23,4 +21,7 @@ header nav ul{
 nav ul li a{
     margin-right: 30px;
     justify-content: space-between;
+}
+span img{
+    width: 160px;height: 500px;
 }

@@ -11,9 +11,11 @@ header{
     height: 80px;
 }
 header nav ul{
+    padding-top: 30px;
     list-style: none;
     display: flex;
     flex-direction: row;
+    justify-content: space-evenly;
 }
 nav ul li a{
     margin-right: 30px;

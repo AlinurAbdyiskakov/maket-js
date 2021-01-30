@@ -22,6 +22,16 @@ nav ul li a{
     margin-right: 30px;
     justify-content: space-between;
 }
-span img{
-    width: 250px;height: 500px;
+#example1{
+    width: 100%;
+   
+    display: flex;
+    flex-direction: row;
 }
+#example1 .my1:nth-child(2){
+    background-color: lightseagreen;width: 50%; 
+}
+#example1 .my1:nth-child(3){
+    background-color:goldenrod;width: 50%;
+}
+

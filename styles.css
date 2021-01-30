@@ -1,4 +1,17 @@
+*{
+    margin: 0;
+}
 body{
     margin: 0 auto;
     background-color: white;
 }
+header{
+    margin: 2 auto;
+    background-color: red;
+    height: 80px;
+}
+header nav ul{
+    display: flex;
+    flex-direction: row;
+}
+nav

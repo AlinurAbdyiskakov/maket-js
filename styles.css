@@ -37,5 +37,11 @@ nav ul li a{
 }
 
 footer{
-    background-color: grey;
+    background-color: green;
+    height: 150px;
+    display: flex;
+    justify-content: space-around;flex-direction: row;
+}
+footer ul{
+    list-style: none;
 }
